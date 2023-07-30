@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.heading{
+    background-color: blueviolet;
+    padding: 15px;
+    color: rgb(180, 142, 93);
+    text-align: center;
+    border-radius: 50px 20px;
+    margin-bottom :10px;
+}
+
+.container{
+    width: 45%;
+    box-shadow: rgba(3, 137, 3, 0.979) 0px 5px 15px;
+    margin: 10px;
+    border-radius: 50px 20px;
+    background-color: aqua;
+}
+.box{
+    background-color: rgb(95, 113, 45);
+    padding: 10px;
+    border-radius: 30px;
+    
+}
+.name{
+    text-align: center;
+    color: white;
+    font-style: oblique;
+}
+.biodata{
+    color: rgb(32, 195, 17);
+    text-align: center;
+}
+.date{
+    font-weight: bold;
+    font-style: italic;
+    text-align: end;
+}
